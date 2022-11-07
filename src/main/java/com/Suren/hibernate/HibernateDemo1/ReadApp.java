@@ -21,7 +21,7 @@ public class ReadApp
     	
     	Song song =  new Song();
     	
-    song=	session.get(Song.class, 1);//(entity.class,primary key)
+    song=	session.get(Song.class, 16);//(entity.class,primary key)
     	
     	System.out.println(song);
     	session.close();
