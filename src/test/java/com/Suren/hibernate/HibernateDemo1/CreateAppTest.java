@@ -18,5 +18,4 @@ public class CreateAppTest
         assertTrue( true );
     }
 }
-//checked
-//
+
